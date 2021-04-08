@@ -35,7 +35,6 @@ h1 {
 
 h2 {
     background-image: linear-gradient(120deg, #ff8080 0%, #ffb3b3 100%);
-    /* margin: 0 0 15px 0; */
     width: 40vw;
     border-color: lightgray;
     border-bottom-style: groove;
@@ -64,24 +63,9 @@ p {
     font-family: "Helvetica", serif;
     font-style: italic;
     word-wrap: break-word;
-    /* margin: 0 0 0 15px; */
     margin-left: auto;
     margin-right: auto;
     margin-top: 2vw;
-}
-
-h3 {
-    width: 27vw;
-    border-color: lightgray;
-    border-style: groove;
-    border-radius: 8px;
-    background-image: linear-gradient(120deg, #ffc3a0 0%, #ffafbd 100%);
-    font-size: 1.2rem;
-    font-family: Georgia, serif;
-    text-align: center;
-    font-style: italic;
-    color: white;
-    margin: 0 0 8px 15px;
 }
 
 ul {
