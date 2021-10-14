@@ -108,8 +108,23 @@ img.page3 {
     width: 20%;
 }
 
+/* svg.index {
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;  
+    border: 8px ridge rgb(216, 121, 137);  
+    padding: 5px;
+    width: 20%; 
+} */
+
 .link:hover {
     text-shadow: 2px 8px 45px rgba(0, 0, 0, .15);
     transform: translate3D(0, -5px, 0);
 }
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
 
