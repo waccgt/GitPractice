@@ -35,6 +35,7 @@ h1 {
 
 h2 {
     background-image: linear-gradient(120deg, #ff8080 0%, #ffb3b3 100%);
+    padding: 5px 5px;
     width: 40vw;
     border-color: lightgray;
     border-bottom-style: groove;
@@ -48,6 +49,7 @@ h2 {
     font-style: italic;
     color: white;
     margin: 0 auto;
+    margin-top: 2vw;
 }
 
 p {
